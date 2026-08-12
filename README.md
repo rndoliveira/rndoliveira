@@ -1,26 +1,67 @@
-### Ronaldo, estudante de Segurança da Informação e Desenvolvimento Front-end. 
-<div align="center">
-  <a href="https://github.com/Dev-Ronaldo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Ronaldo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ronaldo&layout=compact&langs_count=7&theme=github_dark"/>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ronaldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ronaldo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ronaldo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ronaldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ronaldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ronaldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ronaldo-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <!-- <img align="center" alt="Ronaldo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->        
+<h1 align="center">Olá! Eu sou o Ronaldo 👋</h1>
 
+<p align="center">
+  <b>Desenvolvedor Web &amp; Mobile</b> — construo produtos mensuráveis, do código ao dado.<br>
+  <i>Web &amp; Mobile Developer — I build measurable products, from code to data.</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ronaldotvrs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+### 🇧🇷 Sobre mim
+
+Engenheiro Mecânico (UTFPR) e formado em Segurança da Informação (Fatec), atuo na interseção entre **desenvolvimento, analytics e privacidade**. Não construo só interfaces — eu as **instrumento para provar o valor do que entrego com dados**.
+
+- 🔭 Trabalhando com **tracking & data analytics** (GA4, GTM, dataLayer)
+- 🧩 Construindo com **React, React Native, JavaScript e Python**
+- 🔒 Código com **privacidade e proteção de dados por padrão** (LGPD / consent mode)
+- 🌱 Explorando **desenvolvimento assistido por IA** (agentes, MCP, prompt engineering)
+
+### 🇺🇸 About me
+
+Mechanical Engineer (UTFPR) with a degree in Information Security (Fatec), I work at the intersection of **development, analytics and privacy**. I don't just build interfaces — I **instrument them to prove the value of what I ship with data**.
+
+- 🔭 Working with **tracking & data analytics** (GA4, GTM, dataLayer)
+- 🧩 Building with **React, React Native, JavaScript and Python**
+- 🔒 Code with **privacy and data protection by default** (GDPR / consent mode)
+- 🌱 Exploring **AI-assisted development** (agents, MCP, prompt engineering)
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+<p>
+  <img alt="Google Analytics" src="https://img.shields.io/badge/Google_Analytics_(GA4)-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
+  <img alt="Google Tag Manager" src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rndoliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndoliveira&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages">
 </div>
- #---#
-<div> 
-  <!-- <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <!-- <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-   <a href="https://www.linkedin.com/in/ronaldotvrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/Dev-Ronaldo/Dev-Ronaldo/blob/output/github-contribution-grid-snake.svg)
-</div>  
+
+<div align="center">
+  <img src="https://github.com/rndoliveira/rndoliveira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>

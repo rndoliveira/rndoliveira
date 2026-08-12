@@ -1,20 +1,24 @@
-name: Generate Datas
+name: Generate Snake Animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+# O GITHUB_TOKEN é read-only por padrão; precisa de write para publicar no branch output.
+permissions:
+  contents: write
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Gera a animação da snake
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Dev-Ronaldo
+          github_user_name: rndoliveira
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
