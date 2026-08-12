@@ -55,13 +55,17 @@ Mechanical Engineer (UTFPR) with a degree in Information Security (Fatec), I wor
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
+
+<p align="center">
+  <a href="https://github.com/rndoliveira?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/rndoliveira?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=20232A&color=0077B5">
+  </a>
+  <a href="https://github.com/rndoliveira?tab=repositories">
+    <img alt="Repositórios" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=20232A&color=61DAFB&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frndoliveira">
+  </a>
+</p>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rndoliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndoliveira&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages">
-</div>
-
-<div align="center">
-  <img src="https://github.com/rndoliveira/rndoliveira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/rndoliveira/rndoliveira/output/github-contribution-grid-snake.svg" alt="Snake animation da minha atividade no GitHub / My GitHub contribution snake">
 </div>
